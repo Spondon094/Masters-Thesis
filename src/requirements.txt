@@ -1,0 +1,8 @@
+
+
+nibabel
+numpy
+opencv-python
+multiprocessing
+matplotlib
+scipy
